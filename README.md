@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pushkar Choudhary
-- 👀 I’m interested in Web Devlopment and Competitve Coding.
+- 👀 I’m interested in Web Devlopment and Competitive Coding.
 - 🌱 I’m currently learning basics of web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : U can reach me on linkedin : https://linkedin.com/in/pushkar-choudhary-ab7a8b227
