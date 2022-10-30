@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushkar Choudhary
 - 👀 I’m interested in Web Devlopment and Competitive Coding.
 - 🌱 I’m currently learning basics of web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me : U can reach me on linkedin : https://linkedin.com/in/pushkar-choudhary-ab7a8b227
 - Email : pushkariiitv@gmail.com
 
