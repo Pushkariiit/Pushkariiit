@@ -9,6 +9,7 @@
 Pushkariiit/Pushkariiit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img align="right" alt="Coading" width="400" padding="100" src="https://images.unsplash.com/photo-1647166545674-ce28ce93bdca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGdpdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
