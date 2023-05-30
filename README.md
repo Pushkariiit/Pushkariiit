@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meenabharti8" height="20" width="30" /></a>
-<a href="linkedin.com/in/pushkariiitv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bharti-m-15b624221/" height="20" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhartii.m" height="20" width="30" /></a>
+<a href="linkedin.com/in/pushkariiitv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/pushkariiitv" height="20" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkar2610
+ _" height="20" width="30" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
